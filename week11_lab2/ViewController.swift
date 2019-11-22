@@ -80,8 +80,9 @@ class ViewController: UIViewController {
             {
                 self?.performSegue(withIdentifier: "login", sender: self)
             }
+        }
     }
-}
+    
     
 }
 
